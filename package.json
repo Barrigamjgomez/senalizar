@@ -1,0 +1,20 @@
+{
+  "name": "senalizar",
+  "version": "1.0.0",
+  "description": "Accecibilidad web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Meliza_fb@bitbucket.org/valePV/senalizar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/valePV/senalizar#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}

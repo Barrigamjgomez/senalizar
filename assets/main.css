@@ -1,0 +1,41 @@
+body{
+	background-color: #f7f7f7;
+}
+.luz-logo{
+	margin-left: 49em;
+}
+.se-logo{
+	margin-left: 3em;
+}
+.btn-init{
+	padding: 0em 5em 0em 7em;
+}
+.btn-about, .btn-validation, .btn-contac{
+	padding-right: 5em;
+}
+.init, .validation, .about-us, .contact{
+	min-height: 100vh;
+}
+
+.form-contact{
+	margin-left: 24em;
+}
+.price_table_container{
+	text-align:center;
+	color:#666;
+	margin-top:35px;
+	font-family: 'Open Sans', sans-serif;
+}
+.price_table_heading{
+	font-size:36px;
+	padding:10px;
+	background:#EEE;
+}
+.price_table_row {
+    padding:15px;
+	background: #FFF;
+}
+footer{
+	background-color: white;
+	
+}
